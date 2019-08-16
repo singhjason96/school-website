@@ -1,0 +1,100 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00000000;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.layout{
+    position: relative;
+    z-index: 0;
+}
+.fixed-region-style{
+    top: 0;
+}
+
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    position: relative;
+    background-color: #ffbb33 !important;
+}
+
+.section-1{
+    background-color: aquamarine !important;
+    width: 100%;
+    height: 50vh;
+    margin: 0;
+    position: relative;
+    background-size: contain;
+}
+
+.card-body{
+    color:black;
+}
+
+.container{
+    position: absolute;
+    margin-top: 5%;
+    
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+}
+.w-75{
+    margin-top: 10%;
+}
+.section-2{
+    background-color: lavender;
+    width: 100%;
+    height: 50vh;
+}
+.container1{
+    height:50vh;
+}
+.display-4{
+    text-align: center;
+}
+.lead{
+    text-align: center;
+}
+
+.section-3{
+    background-color: blueviolet;
+    width: 100%;
+}
+
+img{
+    background-size: cover;
+    height: 50vh;
+}
+
+.page-footer{
+    width: 100%;
+    height: 10vh;
+    background-color: #f2f2f2;
+}
+.container-fluid{
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+.classroom{
+    opacity: .25;
+}
+
+.btn {
+    background-color: #4d4d4d !important;
+    color: white !important;
+    border-color: black !important;
+
+}
+
+.btn:hover{
+    background-color: #333333 !important;
+    
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 25px !important;
+}
